@@ -1,1 +1,28 @@
+# 1. Giai đoạn 1: Phân tích & thiết kế (09/08 – 23/08)
+Xác định đề tài website
+Phân tích yêu cầu chức năng (user, admin)
+Thiết kế cơ sở dữ liệu (SQL Server)
+Vẽ sơ đồ (ERD, class)
+Thiết kế giao diện (mockup)
 
+# 2. Giai đoạn 2: Xây dựng backend (24/08 – 30/08)
+Tạo project ASP.NET Core MVC
+Kết nối database bằng Entity Framework
+Xây dựng Model – Controller
+Làm các chức năng:
+CRUD sản phẩm
+Đăng nhập / đăng ký
+
+# 3. Giai đoạn 3: Xây dựng frontend (31/08 – 13/09)
+Thiết kế giao diện bằng HTML, CSS, Bootstrap
+Hiển thị:
+Danh sách sản phẩm
+Chi tiết sản phẩm
+Kết nối dữ liệu từ backend
+
+# 4. Giai đoạn 4: Hoàn thiện & kiểm thử (14/09 – 24/09)
+Làm giỏ hàng, đặt hàng
+Test hệ thống
+Sửa lỗi
+Hoàn thiện giao diện
+Chuẩn bị báo cáo & demo
