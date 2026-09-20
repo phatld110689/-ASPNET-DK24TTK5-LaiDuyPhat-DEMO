@@ -1,0 +1,28 @@
+# Hướng dẫn cài đặt và chạy chương trình
+ Bước 1: Chuẩn bị môi trường
+- Cài đặt Visual Studio 2022
+- Cài đặt .NET 8 hoặc .NET 10
+- Cài đặt SQL Server
+- Cài đặt SQL Server Management Studio (SSMS)
+ 
+Bước 2: Tải source code
+- Clone từ GitHub:
+```bash
+git clone <link-repo>
+
+Bước 3: Cấu hình cơ sở dữ liệu
+Mở file appsettings.json
+Chỉnh chuỗi kết nối
+
+Bước 4: Tạo Database
+Mở Visual Studio
+Vào Tools → NuGet Package Manager → Package Manager Console
+
+Bước 5: Chạy chương trình
+Mở file .sln
+Nhấn F5 hoặc Ctrl + F5 để chạy
+
+Bước 6: Truy cập hệ thống
+Sau khi chạy chương trình thành công, truy cập trình duyệt tại:
+
+http://localhost:44304
