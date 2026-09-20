@@ -1,6 +1,6 @@
 # Hướng dẫn cài đặt và chạy chương trình
  Bước 1: Chuẩn bị môi trường
-- Cài đặt Visual Studio 2022
+- Cài đặt Visual Studio 2026
 - Cài đặt .NET 8 hoặc .NET 10
 - Cài đặt SQL Server
 - Cài đặt SQL Server Management Studio (SSMS)
