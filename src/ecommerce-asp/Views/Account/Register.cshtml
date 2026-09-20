@@ -1,0 +1,64 @@
+﻿@model ecommerce_asp.ViewModels.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Đăng ký";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                <div class="billing-details">
+                    <div class="section-title">
+                        <h3 class="title">Đăng ký tài khoản</h3>
+                    </div>
+
+                    <form asp-action="Register" method="post">
+                        <div class="form-group">
+                            <input asp-for="FullName" class="input" placeholder="Họ và tên" />
+                            <span asp-validation-for="FullName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="Email" class="input" placeholder="Email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="Password" type="password" class="input" placeholder="Mật khẩu" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="ConfirmPassword" type="password" class="input" placeholder="Xác nhận mật khẩu" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="PhoneNumber" class="input" placeholder="Số điện thoại" />
+                        </div>
+
+                        <div class="form-group">
+                            <input asp-for="Address" class="input" placeholder="Địa chỉ" />
+                        </div>
+
+                        <button type="submit" class="primary-btn order-submit">Đăng ký</button>
+                    </form>
+
+                    <br />
+                    <p>
+                        Đã có tài khoản?
+                        <a asp-controller="Account" asp-action="Login">Đăng nhập</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

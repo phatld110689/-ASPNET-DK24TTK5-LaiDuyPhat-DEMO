@@ -1,0 +1,33 @@
+﻿@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+            <h4>Tổng sản phẩm</h4>
+            <h2 style="color:#D10024;">@ViewBag.TotalProducts</h2>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+            <h4>Tổng đơn hàng</h4>
+            <h2 style="color:#D10024;">@ViewBag.TotalOrders</h2>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+            <h4>Tổng khách hàng</h4>
+            <h2 style="color:#D10024;">@ViewBag.TotalCustomers</h2>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div style="background:white; padding:20px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+            <h4>Doanh thu</h4>
+            <h2 style="color:#D10024;">@(((decimal)ViewBag.TotalRevenue).ToString("N0")) VNĐ</h2>
+        </div>
+    </div>
+</div>

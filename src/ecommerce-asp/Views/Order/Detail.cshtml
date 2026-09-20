@@ -1,0 +1,110 @@
+﻿@model ecommerce_asp.Models.Order
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h3 class="title">Chi tiết đơn hàng #@Model.OrderId</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div style="background:#fff; border:1px solid #e4e7ed; border-radius:10px; padding:25px; margin-bottom:25px;">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p><strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+                            <p><strong>Người nhận:</strong> @Model.ReceiverName</p>
+                            <p><strong>Số điện thoại:</strong> @Model.PhoneNumber</p>
+                        </div>
+
+                        <div class="col-md-6">
+                            <p><strong>Địa chỉ:</strong> @Model.Address</p>
+                            <p><strong>Ghi chú:</strong> @(string.IsNullOrEmpty(Model.Note) ? "Không có" : Model.Note)</p>
+                            <p>
+                                <strong>Trạng thái:</strong>
+                                <span style="color:#D10024; font-weight:700;">@Model.Status</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @if (Model.OrderDetails != null && Model.OrderDetails.Any())
+        {
+            <div class="row">
+                <div class="col-md-8">
+                    @foreach (var item in Model.OrderDetails)
+                    {
+                        <div style="display:flex; gap:20px; align-items:center; background:#fff; border:1px solid #e4e7ed; border-radius:10px; padding:20px; margin-bottom:20px;">
+                            <div style="width:130px; min-width:130px;">
+                                <img src="~/img/@item.Laptop?.ImageUrl"
+                                     alt="@item.Laptop?.Name"
+                                     style="width:100%; height:100px; object-fit:cover; border-radius:8px;" />
+                            </div>
+
+                            <div style="flex:1;">
+                                <h4 style="margin-top:0; margin-bottom:10px;">
+                                    <a asp-controller="Product"
+                                       asp-action="Detail"
+                                       asp-route-id="@item.LaptopId"
+                                       style="text-decoration:none; color:#2B2D42;">
+                                        @item.Laptop?.Name
+                                    </a>
+                                </h4>
+
+                                <p style="margin:0 0 6px 0;"><strong>Đơn giá:</strong> @item.UnitPrice.ToString("N0") VNĐ</p>
+                                <p style="margin:0 0 6px 0;"><strong>Số lượng:</strong> @item.Quantity</p>
+                                <p style="margin:0; color:#D10024; font-weight:700;">
+                                    Thành tiền: @((item.UnitPrice * item.Quantity).ToString("N0")) VNĐ
+                                </p>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-md-4">
+                    <div style="background:#fff; border:1px solid #e4e7ed; border-radius:10px; padding:25px;">
+                        <h3 style="margin-top:0; margin-bottom:20px;">Tổng kết đơn hàng</h3>
+
+                        <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+                            <span>Số sản phẩm</span>
+                            <strong>@Model.OrderDetails.Count</strong>
+                        </div>
+
+                        <div style="display:flex; justify-content:space-between; margin-bottom:15px;">
+                            <span>Tổng tiền</span>
+                            <strong style="color:#D10024;">@Model.TotalAmount.ToString("N0") VNĐ</strong>
+                        </div>
+
+                        <hr />
+
+                        <a asp-controller="Order"
+                           asp-action="MyOrders"
+                           class="primary-btn"
+                           style="display:block; text-align:center; text-decoration:none;">
+                            Quay lại đơn hàng
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="row">
+                <div class="col-md-12">
+                    <div style="background:#fff; border:1px solid #e4e7ed; border-radius:10px; padding:25px;">
+                        <p style="margin:0;">Đơn hàng này chưa có sản phẩm.</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

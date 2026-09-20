@@ -1,0 +1,226 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>Cửa hàng Laptop</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+@using ecommerce_asp.Models
+@inject AppDbContext _context
+
+@{
+        int wishlistCount = 0;
+        int cartCount = 0;
+        int? customerId = Context.Session.GetInt32("CustomerId");
+
+        if (customerId != null)
+        {
+                cartCount = _context.CartItems
+                        .Where(c => c.CustomerId == customerId.Value)
+                        .Count();
+                wishlistCount = _context.Wishlists
+                        .Where(w => w.CustomerId == customerId.Value)
+                        .Count();
+        }
+}
+<body>
+
+    <header>
+        <div id="top-header">
+            <div class="container">
+                <ul class="header-links pull-left">
+                    <li><a href="#"><i class="fa fa-phone"></i> +84 941149941</a></li>
+                    <li><a href="#"><i class="fa fa-envelope-o"></i> duyphatstore@gmail.com</a></li>
+                </ul>
+
+                <ul class="header-links pull-right">
+                    @if (Context.Session.GetString("CustomerName") != null)
+                    {
+                        @if (Context.Session.GetString("UserRole") == "Admin")
+                        {
+                            <li>
+                                <a asp-controller="Admin" asp-action="Index">
+                                    <i class="fa fa-cogs"></i> Quản trị
+                                </a>
+                            </li>
+                        }
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-user-o"></i> Xin chào, @Context.Session.GetString("CustomerName")
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Order" asp-action="MyOrders">
+                                <i class="fa fa-list"></i> Đơn hàng
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Account" asp-action="Logout">
+                                <i class="fa fa-sign-out"></i> Đăng xuất
+                            </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            <a asp-controller="Account" asp-action="Login">
+                                <i class="fa fa-sign-in"></i> Đăng nhập
+                            </a>
+                        </li>
+                        <li>
+                            <a asp-controller="Account" asp-action="Register">
+                                <i class="fa fa-user-plus"></i> Đăng ký
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <div id="header">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-3">
+                        <div class="header-logo" style="padding: 15px 0;">
+                            <a href="/" class="" style="text-decoration: none; display: inline-block;">
+                                <h1 style="margin: 0; color: white; font-size: 32px; font-weight: 700; line-height: 1;">
+                                    DUYPHAT STORE
+                                </h1>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                            <div class="header-search">
+
+                                <form>
+
+                                <form asp-controller="Home" asp-action="Index" method="get">
+                                    <input class="input" name="keyword" placeholder="Tìm laptop..."
+                                           style="border-top-left-radius:40px; border-bottom-left-radius:40px;" />
+                                    <button type="submit" class="search-btn">Tìm kiếm</button>
+                                </form>
+
+                                </form>
+
+                            </div>
+                       
+                    </div>
+
+                    <div class="col-md-3 clearfix">
+                        <div class="header-ctn">
+                            <div>
+                                <a href="/Wishlist">
+                                    <i class="fa fa-heart-o"></i>
+                                    <span>Yêu thích</span>
+                                    <div class="qty">@wishlistCount</div>
+                                </a>
+                            </div>
+
+                            <div>
+                                <a href="/Cart">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    <span>Giỏ hàng</span>
+                                    <div class="qty">@cartCount</div>
+                                </a>
+                            </div>
+
+                            <div class="menu-toggle">
+                                <a href="#">
+                                    <i class="fa fa-bars"></i>
+                                    <span>Menu</span>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <nav id="navigation">
+        <div class="container">
+            <div id="responsive-nav">
+                <ul class="main-nav nav navbar-nav">
+                    <li class="active">
+                        <a href="/">Trang chủ</a>
+                    </li>
+
+                    <li>
+                        <a href="/Product">Sản phẩm</a>
+                    </li>
+
+                    <li>
+                        <a href="/Product">Thông tin</a>
+                    </li>
+
+                    <li>
+                        <a href="/Product">Liên hệ</a>
+                    </li>
+
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+    <footer id="footer">
+        <div class="section">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-3">
+                        <h3 class="footer-title">Về chúng tôi</h3>
+                        <p>Website bán laptop xây dựng bằng ASP.NET MVC</p>
+                    </div>
+
+                    <div class="col-md-3">
+                        <h3 class="footer-title">Danh mục</h3>
+                        <ul class="footer-links">
+                            <li><a href="#">Laptop Gaming</a></li>
+                            <li><a href="#">Laptop Văn Phòng</a></li>
+                            <li><a href="#">Laptop Sinh Viên</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3">
+                        <h3 class="footer-title">Thông tin</h3>
+                        <ul class="footer-links">
+                            <li><a href="#">Giới thiệu</a></li>
+                            <li><a href="#">Liên hệ</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-3">
+                        <h3 class="footer-title">Hỗ trợ</h3>
+                        <ul class="footer-links">
+                            <li><a href="#">Tài khoản</a></li>
+                            <li><a href="/Cart">Giỏ hàng</a></li>
+                            <li><a href="/Wishlist">Yêu thích</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/main.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

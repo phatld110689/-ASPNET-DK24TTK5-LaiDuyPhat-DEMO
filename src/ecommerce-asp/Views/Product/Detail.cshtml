@@ -1,0 +1,309 @@
+﻿@model ecommerce_asp.Models.Laptop
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var relatedProducts = ViewBag.RelatedProducts as List<ecommerce_asp.Models.Laptop>;
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-5 col-md-push-2">
+                <div id="product-main-img">
+                    <div class="product-preview">
+                        <img src="~/img/@Model.ImageUrl"
+                             alt="@Model.Name"
+                             style="width:100%; height:350px; object-fit:cover;" />
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-md-pull-5">
+
+            </div>
+
+            <div class="col-md-5">
+                <div class="product-details">
+                    <h2 class="product-name">@Model.Name</h2>
+
+                    <div>
+                        <div class="product-rating">
+                            @for (int i = 1; i <= 5; i++)
+                            {
+                                if (i <= Model.Rate)
+                                {
+                                    <i class="fa fa-star"></i>
+                                }
+                                else
+                                {
+                                    <i class="fa fa-star-o"></i>
+                                }
+                            }
+                        </div>
+                        <a class="review-link" href="#tab3">3 đánh giá | Viết đánh giá</a>
+                    </div>
+
+                    <div>
+                        <h3 class="product-price">@Model.Price.ToString("N0") VNĐ</h3>
+                        <span class="product-available">
+                            @(Model.StockQuantity > 0 ? "Còn hàng" : "Hết hàng")
+                        </span>
+                    </div>
+
+                    <p>
+                        @(string.IsNullOrEmpty(Model.Description)
+                                                ? "Sản phẩm laptop chất lượng, phù hợp cho học tập, làm việc và giải trí."
+                                                : Model.Description)
+                    </p>
+                    <ul class="product-links">
+                        <li>Danh mục:</li>
+                        <li>
+                            <a href="#">
+                                @(Model.Category != null ? Model.Category.Name : "Laptop")
+                            </a>
+                        </li>
+                    </ul>
+
+                    <ul class="product-links">
+                        <li>Thương hiệu:</li>
+                        <li>
+                            <a href="#">
+                                @(Model.Brand != null ? Model.Brand.Name : "Đang cập nhật")
+                            </a>
+                        </li>
+                    </ul>
+
+
+                    <div class="add-to-cart" style="display:flex; align-items:center; gap:15px; flex-wrap:wrap; margin-top:20px;">
+                        <form asp-controller="Cart"
+                              asp-action="Add"
+                              asp-route-id="@Model.LaptopId"
+                              method="post"
+                              style="display:flex; align-items:center; gap:15px; flex-wrap:wrap; margin:0;">
+
+                            <div class="qty-label">
+                                Số lượng
+                                <div class="input-number" style="position:relative;">
+                                    <input id="quantityInput" type="number" name="quantity" value="1" min="1" />
+                                    <span class="qty-up" onclick="increaseQty()">+</span>
+                                    <span class="qty-down" onclick="decreaseQty()">-</span>
+                                </div>
+                            </div>
+
+                            <button type="submit"
+                                    class="add-to-cart-btn"
+                                    style="display:inline-flex; align-items:center; justify-content:center; gap:8px; text-decoration:none;">
+                                <i class="fa fa-shopping-cart"></i>
+                                <span>Thêm vào giỏ hàng</span>
+                            </button>
+                        </form>
+                    </div>
+
+                    <script id="bvxw0x">
+                        function increaseQty() {
+                            const input = document.getElementById('quantityInput');
+                            input.stepUp();
+                        }
+
+                        function decreaseQty() {
+                            const input = document.getElementById('quantityInput');
+                            if (parseInt(input.value) > 1) {
+                                input.stepDown();
+                            }
+                        }
+                    </script>
+
+
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <div id="product-tab">
+                    <ul class="tab-nav">
+                        <li class="active"><a data-toggle="tab" href="#tab1">Mô tả</a></li>
+                        <li><a data-toggle="tab" href="#tab2">Thông số kỹ thuật</a></li>
+                        <li><a data-toggle="tab" href="#tab3">Đánh giá</a></li>
+                    </ul>
+
+                    <div class="tab-content">
+                        <div id="tab1" class="tab-pane fade in active">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <p>
+                                        @(string.IsNullOrEmpty(Model.Description)
+                                                                                ? "Đây là sản phẩm laptop phù hợp cho nhu cầu học tập, làm việc văn phòng và giải trí. Thiết kế hiện đại, hiệu năng ổn định, đáp ứng tốt nhu cầu sử dụng hằng ngày."
+                                                                                : Model.Description)
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="tab2" class="tab-pane fade in">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <p><strong>Đánh giá:</strong> @Model.Rate / 5 sao</p>
+                                    <p><strong>CPU:</strong> @Model.CPU</p>
+                                    <p><strong>RAM:</strong> @Model.RAM</p>
+                                    <p><strong>Ổ cứng:</strong> @Model.Storage</p>
+                                    <p><strong>Màn hình:</strong> @Model.Screen</p>
+                                    <hr />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="tab3" class="tab-pane fade in">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div id="rating">
+                                        <div class="rating-avg">
+                                            <span>@Model.Rate.0</span>
+                                            <div class="rating-stars">
+                                                @for (int i = 1; i <= 5; i++)
+                                                {
+                                                    if (i <= Model.Rate)
+                                                    {
+                                                        <i class="fa fa-star"></i>
+                                                    }
+                                                    else
+                                                    {
+                                                        <i class="fa fa-star-o"></i>
+                                                    }
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div id="reviews">
+                                        <ul class="reviews">
+                                            <li>
+                                                <div class="review-heading">
+                                                    <h5 class="name">Nguyễn Văn A</h5>
+                                                    <p class="date">12 THÁNG 3 2026</p>
+                                                    <div class="review-rating">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-o empty"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="review-body">
+                                                    <p>Sản phẩm đẹp, dùng ổn định, phù hợp học tập và làm việc.</p>
+                                                </div>
+                                            </li>
+
+                                            <li>
+                                                <div class="review-heading">
+                                                    <h5 class="name">Trần Thị B</h5>
+                                                    <p class="date">10 THÁNG 3 2026</p>
+                                                    <div class="review-rating">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star-o empty"></i>
+                                                    </div>
+                                                </div>
+                                                <div class="review-body">
+                                                    <p>Máy chạy mượt, giá hợp lý, phù hợp cho sinh viên và nhân viên văn phòng.</p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <div id="review-form">
+                                        <form class="review-form">
+                                            <input class="input" type="text" placeholder="Họ tên" />
+                                            <input class="input" type="email" placeholder="Email" />
+                                            <textarea class="input" placeholder="Nhập đánh giá"></textarea>
+                                            <div class="input-rating">
+                                                <span>Đánh giá của bạn: </span>
+                                                <div class="stars">
+                                                    <input id="star5" name="rating" value="5" type="radio"><label for="star5"></label>
+                                                    <input id="star4" name="rating" value="4" type="radio"><label for="star4"></label>
+                                                    <input id="star3" name="rating" value="3" type="radio"><label for="star3"></label>
+                                                    <input id="star2" name="rating" value="2" type="radio"><label for="star2"></label>
+                                                    <input id="star1" name="rating" value="1" type="radio"><label for="star1"></label>
+                                                </div>
+                                            </div>
+                                            <button class="primary-btn" type="submit">Gửi đánh giá</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-12">
+                        <div class="section-title text-center">
+                            <h3 class="title">Sản phẩm liên quan</h3>
+                        </div>
+                    </div>
+
+                    @if (relatedProducts != null && relatedProducts.Any())
+                    {
+                        foreach (var item in relatedProducts)
+                        {
+                            <div class="col-md-3 col-xs-6">
+                                <div class="product">
+                                    <div class="product-img">
+                                        <img src="~/img/@item.ImageUrl"
+                                             alt="@item.Name"
+                                             style="width:100%; height:220px; object-fit:cover;" />
+                                    </div>
+
+                                    <div class="product-body">
+                                        <p class="product-category">
+                                            @(item.Category != null ? item.Category.Name : "Laptop")
+                                        </p>
+
+                                        <h3 class="product-name">
+                                            <a asp-controller="Product"
+                                               asp-action="Detail"
+                                               asp-route-id="@item.LaptopId">
+                                                @item.Name
+                                            </a>
+                                        </h3>
+
+                                        <h4 class="product-price">
+                                            @item.Price.ToString("N0") VNĐ
+                                        </h4>
+                                    </div>
+
+                                    <div class="add-to-cart">
+                                        <a asp-controller="Product"
+                                           asp-action="Detail"
+                                           asp-route-id="@item.LaptopId"
+                                           class="add-to-cart-btn"
+                                           style="display:flex; align-items:center; justify-content:center; gap:8px;">
+                                            <i class="fa fa-eye"></i>
+                                            <span>Xem chi tiết</span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+                    else
+                    {
+                        <div class="col-md-12">
+                            <p>Chưa có sản phẩm liên quan.</p>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

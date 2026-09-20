@@ -1,0 +1,63 @@
+﻿@model List<ecommerce_asp.Models.Laptop>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-12">
+                <div class="row">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-md-4 col-xs-6">
+                            <div class="product">
+
+                                <div class="product-img">
+                                    <a asp-controller="Product"
+                                       asp-action="Detail"
+                                       asp-route-id="@item.LaptopId">
+                                        <img src="~/img/@item.ImageUrl"
+                                             alt="@item.Name"
+                                             style="width:100%; height:250px; object-fit:cover;" />
+                                    </a>
+                                </div>
+
+                                <div class="product-body">
+                                    <p class="product-category">
+                                        @(item.Brand != null ? item.Brand.Name : "Laptop")
+                                    </p>
+
+                                    <h3 class="product-name">
+                                        <a asp-controller="Product" asp-action="Detail" asp-route-id="@item.LaptopId">
+                                            @item.Name
+                                        </a>
+                                    </h3>
+
+                                    <h4 class="product-price">
+                                        @item.Price.ToString("N0") VNĐ
+                                    </h4>
+                                </div>
+
+                                <div class="add-to-cart">
+                                    <a asp-controller="Cart"
+                                       asp-action="Add"
+                                       asp-route-id="@item.LaptopId"
+                                       class="add-to-cart-btn"
+                                       style="display:flex; align-items:center; justify-content:center; gap:8px;">
+                                        <i class="fa fa-shopping-cart"></i>
+                                        <span>Thêm vào giỏ hàng</span>
+                                    </a>
+                                </div>
+
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

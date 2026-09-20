@@ -1,0 +1,76 @@
+﻿@model ecommerce_asp.Models.Laptop
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div style="background:white; padding:20px; border-radius:10px;">
+    <h3>Sửa sản phẩm</h3>
+
+    <form asp-action="EditProduct" method="post">
+        <input asp-for="LaptopId" type="hidden" />
+
+        <div class="form-group">
+            <label>Tên laptop</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Giá</label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Ảnh</label>
+            <input asp-for="ImageUrl" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Mô tả</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+
+        <div class="form-group">
+            <label>Số lượng tồn</label>
+            <input asp-for="StockQuantity" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Đánh giá</label>
+            <input asp-for="Rate" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>CPU</label>
+            <input asp-for="CPU" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>RAM</label>
+            <input asp-for="RAM" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Ổ cứng</label>
+            <input asp-for="Storage" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Màn hình</label>
+            <input asp-for="Screen" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label>Thương hiệu</label>
+            <select asp-for="BrandId" asp-items="ViewBag.Brands" class="form-control"></select>
+        </div>
+
+        <div class="form-group">
+            <label>Danh mục</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-control"></select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Cập nhật</button>
+        <a asp-action="Products" class="btn btn-default">Quay lại</a>
+    </form>
+</div>

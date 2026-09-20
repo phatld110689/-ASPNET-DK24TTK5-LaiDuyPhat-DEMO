@@ -1,0 +1,142 @@
+﻿@model List<ecommerce_asp.Models.CartItem>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    decimal total = Model != null ? Model.Sum(x => x.TotalPrice) : 0;
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h3 class="title">Giỏ hàng của bạn</h3>
+                </div>
+            </div>
+        </div>
+
+        @if (Model != null && Model.Any())
+        {
+            <div class="row">
+                <div class="col-md-8">
+                    @foreach (var item in Model)
+                    {
+                        <div class="product-widget" style="display:flex; align-items:center; gap:20px; padding:20px; margin-bottom:20px; border:1px solid #e4e7ed; border-radius:10px; background:#fff;">
+                            <div class="product-img" style="width:120px; min-width:120px;">
+                                <img src="~/img/@item.Laptop?.ImageUrl"
+                                     alt="@item.Laptop?.Name"
+                                     style="width:100%; height:100px; object-fit:cover; border-radius:8px;" />
+                            </div>
+
+                            <div class="product-body" style="flex:1;margin-left:35px;">
+                                <h3 class="product-name" style="margin-bottom:10px ; ">
+                                    <a asp-controller="Product"
+                                       asp-action="Detail"
+                                       asp-route-id="@item.LaptopId"
+                                       style="font-size:18px;">
+                                        @item.Laptop?.Name
+                                    </a>
+                                </h3>
+
+                                <h4 class="product-price" style="margin-bottom:10px; color:#D10024;">
+                                    @((item.Laptop?.Price ?? 0).ToString("N0")) VNĐ
+                                </h4>
+
+                                <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+                                    <span><strong>Số lượng:</strong></span>
+
+                                    <a asp-controller="Cart"
+                                       asp-action="Decrease"
+                                       asp-route-id="@item.CartItemId"
+                                       style="display:inline-flex; align-items:center; justify-content:center; width:32px; height:32px; border:1px solid #ddd; border-radius:50%; text-decoration:none; color:#333;">
+                                        -
+                                    </a>
+
+                                    <span style="min-width:30px; text-align:center; font-weight:700;">
+                                        @item.Quantity
+                                    </span>
+
+                                    <a asp-controller="Cart"
+                                       asp-action="Increase"
+                                       asp-route-id="@item.CartItemId"
+                                       style="display:inline-flex; align-items:center; justify-content:center; width:32px; height:32px; border:1px solid #ddd; border-radius:50%; text-decoration:none; color:#333;">
+                                        +
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div style="text-align:right; min-width:180px;">
+                                <p style="margin-bottom:10px;">
+                                    <strong>Thành tiền</strong>
+                                </p>
+
+                                <h4 style="color:#D10024; margin-bottom:15px;">
+                                    @item.TotalPrice.ToString("N0") VNĐ
+                                </h4>
+
+                                <a asp-controller="Cart"
+                                   asp-action="Remove"
+                                   asp-route-id="@item.CartItemId"
+                                   style="display:inline-block; padding:8px 16px; background:#D10024; color:white; border-radius:5px; text-decoration:none;">
+                                    Xóa
+                                </a>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="col-md-4">
+                    <div style="border:1px solid #e4e7ed; border-radius:10px; padding:25px; background:#fff;">
+                        <h3 style="margin-bottom:20px;">Tóm tắt đơn hàng</h3>
+
+                        <div style="display:flex; justify-content:space-between; margin-bottom:10px;">
+                            <span>Số sản phẩm</span>
+                            <strong>@Model.Count</strong>
+                        </div>
+
+                        <div style="display:flex; justify-content:space-between; margin-bottom:20px;">
+                            <span>Tổng tiền</span>
+                            <strong style="color:#D10024;">@total.ToString("N0") VNĐ</strong>
+                        </div>
+
+                        <hr />
+
+                        <div style="margin-top:20px;">
+                            <a asp-controller="Home"
+                               asp-action="Index"
+                               class="primary-btn"
+                               style="display:block; width:100%; text-align:center; margin-bottom:10px; text-decoration:none;">
+                                Tiếp tục mua hàng
+                            </a>
+
+                            <a asp-controller="Order"
+                               asp-action="Checkout"
+                               class="primary-btn order-submit"
+                               style="display:block; width:100%; text-align:center; text-decoration:none;">
+                                Thanh toán
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="row">
+                <div class="col-md-12">
+                    <div style="padding:40px; text-align:center; border:1px solid #e4e7ed; border-radius:10px; background:#fff;">
+                        <h3 style="margin-bottom:15px;">Giỏ hàng của bạn đang trống</h3>
+                        <p style="margin-bottom:20px;">Hãy thêm sản phẩm vào giỏ hàng để tiếp tục mua sắm.</p>
+
+                        <a asp-controller="Home"
+                           asp-action="Index"
+                           class="primary-btn"
+                           style="text-decoration:none;">
+                            Mua sắm ngay
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

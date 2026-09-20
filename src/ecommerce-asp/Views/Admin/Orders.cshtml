@@ -1,0 +1,53 @@
+﻿@model List<ecommerce_asp.Models.Order>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div style="background:white; padding:20px; border-radius:10px;">
+    <h3 style="margin-top:0;">Quản lý đơn hàng</h3>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Mã đơn</th>
+                <th>Ngày đặt</th>
+                <th>Khách hàng</th>
+                <th>Người nhận</th>
+                <th>SĐT</th>
+                <th>Địa chỉ</th>
+                <th>Tổng tiền</th>
+                <th>Trạng thái</th>
+                <th>Cập nhật</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>#@item.OrderId</td>
+                    <td>@item.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>@(item.Customer != null ? item.Customer.FullName : "")</td>
+                    <td>@item.ReceiverName</td>
+                    <td>@item.PhoneNumber</td>
+                    <td>@item.Address</td>
+                    <td>@item.TotalAmount.ToString("N0") VNĐ</td>
+                    <td>@item.Status</td>
+                    <td>
+                        <form asp-controller="Admin" asp-action="UpdateOrderStatus" method="post" style="display:flex; gap:8px;">
+                            <input type="hidden" name="id" value="@item.OrderId" />
+                            <select name="status" class="form-control">
+                                <option value="Chờ xác nhận" selected="@(item.Status == "Chờ xác nhận")">Chờ xác nhận</option>
+                                <option value="Đã xác nhận" selected="@(item.Status == "Đã xác nhận")">Đã xác nhận</option>
+                                <option value="Đang giao" selected="@(item.Status == "Đang giao")">Đang giao</option>
+                                <option value="Hoàn thành" selected="@(item.Status == "Hoàn thành")">Hoàn thành</option>
+                                <option value="Đã hủy" selected="@(item.Status == "Đã hủy")">Đã hủy</option>
+                            </select>
+                            <button type="submit" class="btn btn-primary btn-sm">Lưu</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

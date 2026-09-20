@@ -1,0 +1,66 @@
+﻿@model List<ecommerce_asp.Models.Laptop>
+
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div style="background:white; padding:20px; border-radius:10px;">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+        <h3 style="margin:0;">Quản lý sản phẩm</h3>
+
+        <a asp-controller="Admin"
+           asp-action="CreateProduct"
+           class="btn btn-success">
+            Thêm sản phẩm
+        </a>
+    </div>
+
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Hình ảnh</th>
+                <th>Tên laptop</th>
+                <th>Thương hiệu</th>
+                <th>Danh mục</th>
+                <th>Giá</th>
+                <th>Tồn kho</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.LaptopId</td>
+                    <td>
+                        <img src="~/img/@item.ImageUrl"
+                             alt="@item.Name"
+                             style="width:80px; height:60px; object-fit:cover;" />
+                    </td>
+                    <td>@item.Name</td>
+                    <td>@(item.Brand != null ? item.Brand.Name : "")</td>
+                    <td>@(item.Category != null ? item.Category.Name : "")</td>
+                    <td>@item.Price.ToString("N0") VNĐ</td>
+                    <td>@item.StockQuantity</td>
+                    <td>
+                        <a asp-controller="Admin"
+                           asp-action="EditProduct"
+                           asp-route-id="@item.LaptopId"
+                           class="btn btn-warning btn-sm">
+                            Sửa
+                        </a>
+
+                        <a asp-controller="Admin"
+                           asp-action="DeleteProduct"
+                           asp-route-id="@item.LaptopId"
+                           class="btn btn-danger btn-sm"
+                           onclick="return confirm('Bạn có chắc muốn xóa sản phẩm này không?');">
+                            Xóa
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

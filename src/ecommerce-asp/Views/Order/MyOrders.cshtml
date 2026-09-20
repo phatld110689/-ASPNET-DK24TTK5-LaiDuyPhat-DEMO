@@ -1,0 +1,69 @@
+﻿@model List<ecommerce_asp.Models.Order>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h3 class="title">Đơn hàng của tôi</h3>
+                </div>
+
+                @if (Model != null && Model.Any())
+                {
+                    @foreach (var item in Model)
+                    {
+                        <div style="background:#fff; border:1px solid #e4e7ed; border-radius:10px; padding:20px; margin-bottom:20px;">
+                            <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:15px;">
+                                <div>
+                                    <h4 style="margin:0 0 10px 0;">Đơn hàng #@item.OrderId</h4>
+                                    <p style="margin:0;"><strong>Ngày đặt:</strong> @item.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+                                    <p style="margin:5px 0 0 0;"><strong>Người nhận:</strong> @item.ReceiverName</p>
+                                    <p style="margin:5px 0 0 0;"><strong>Số điện thoại:</strong> @item.PhoneNumber</p>
+                                </div>
+
+                                <div style="text-align:right;">
+                                    <p style="margin:0 0 10px 0;">
+                                        <strong>Trạng thái:</strong>
+                                        <span style="color:#D10024; font-weight:700;">@item.Status</span>
+                                    </p>
+                                    <h4 style="margin:0; color:#D10024;">
+                                        @item.TotalAmount.ToString("N0") VNĐ
+                                    </h4>
+                                </div>
+                            </div>
+
+                            <hr />
+
+                            <p style="margin-bottom:8px;"><strong>Địa chỉ:</strong> @item.Address</p>
+                            <p style="margin-bottom:15px;"><strong>Ghi chú:</strong> @(string.IsNullOrEmpty(item.Note) ? "Không có" : item.Note)</p>
+
+                            <a asp-controller="Order"
+                               asp-action="Detail"
+                               asp-route-id="@item.OrderId"
+                               class="primary-btn"
+                               style="text-decoration:none;">
+                                Xem chi tiết
+                            </a>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div style="padding:30px; background:#fff; border:1px solid #e4e7ed; border-radius:10px; text-align:center;">
+                        <h4 style="margin-bottom:10px;">Bạn chưa có đơn hàng nào</h4>
+                        <a asp-controller="Home"
+                           asp-action="Index"
+                           class="primary-btn"
+                           style="text-decoration:none;">
+                            Mua sắm ngay
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

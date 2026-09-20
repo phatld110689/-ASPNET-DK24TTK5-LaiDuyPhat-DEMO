@@ -1,0 +1,7 @@
+TÀI LIỆU THAM KHẢO
+[1] Microsoft, “ASP.NET MVC Pattern,” .NET. [Online]. Available: https://dotnet.microsoft.com/en-us/apps/aspnet/mvc. [Accessed 09 04 2026].
+[2] Microsoft, “Overview of Entity Framework Core,” Microsoft Learn, Nov. 12, 2024. [Online]. Available: https://learn.microsoft.com/en-us/ef/core/. [Accessed 09 04 2026].
+[3] Microsoft, “SQL Server Technical Documentation,” Microsoft Learn. [Online]. Available: https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17. [Accessed 09 04 2026].
+[4] Bootstrap Team, “Get started with Bootstrap,” Bootstrap Documentation. [Online]. Available: https://getbootstrap.com/docs/5.3/getting-started/introduction/. [Accessed 09 04 2026].
+[5] Microsoft, “ASP.NET Core, an open-source web development framework,” .NET. [Online]. Available: https://dotnet.microsoft.com/en-us/apps/aspnet. [Accessed 09 04 2026].
+[6] Microsoft, “Getting Started - EF Core,” Microsoft Learn, Aug. 24, 2023. [Online]. Available: https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app. [Accessed 09 04 2026].

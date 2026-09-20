@@ -1,0 +1,609 @@
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+C:\ASPNET-DK24TTC5-nguyenphuonganh-EcommerceASP-main\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+C:\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+D:\web_laptop\ASPNET-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+C:\Users\Hi\Downloads\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+C:\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+D:\cá nhân\ĐHTV\web\ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.Development.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\appsettings.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.endpoints.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.staticwebassets.runtime.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.exe
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.deps.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.runtimeconfig.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\ecommerce-asp.pdb
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Humanizer.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.AssemblyReference.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.GeneratedMSBuildEditorConfig.editorconfig
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfoInputs.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.AssemblyInfo.cs
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.csproj.CoreCompileInputs.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.MvcApplicationPartsAssemblyInfo.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.RazorAssemblyInfo.cs
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\bundle\ecommerce-asp.styles.css
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\scopedcss\projectbundle\ecommerce-asp.bundle.scp.css
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\8reuydg5qq-{0}-fmhzntxchr-fmhzntxchr.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5blekogbw1-{0}-rf9f4pws8w-rf9f4pws8w.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\655gjx6v0o-{0}-w70hof1eyv-w70hof1eyv.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\x40l4m485g-{0}-qnvhv7zpqw-qnvhv7zpqw.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\0i1gtm9q9f-{0}-mmzakapvcy-mmzakapvcy.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\9zt07e4s9x-{0}-yidgb1vo5c-yidgb1vo5c.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\acvct6v5l8-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\dn9z3zdx9y-{0}-dosqy3kf6t-dosqy3kf6t.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\307gslhlq9-{0}-sgabxu717i-sgabxu717i.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\us0mw09grh-{0}-m6wwoyv29g-m6wwoyv29g.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\bl1bceg6la-{0}-lqjz3ug8zc-lqjz3ug8zc.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\wi9k9ysoea-{0}-r0izaq9iwr-r0izaq9iwr.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\awb8fn3kws-{0}-2xyd1z85ky-2xyd1z85ky.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\faq48qaavn-{0}-851arfbqz3-851arfbqz3.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\5xg3s015kb-{0}-odvmx182o3-odvmx182o3.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\s3kio4pog3-{0}-8vxybdbzmv-8vxybdbzmv.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\nqc3278ee8-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\compressed\djnbpklmu7-{0}-5kgyzzy1h5-5kgyzzy1h5.gz
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.development.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\swae.build.ex.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerc.53658EA0.Up2Date
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\refint\ecommerce-asp.dll
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.pdb
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ecommerce-asp.genruntimeconfig.cache
+D:\web_laptop\New ASPNET1-DK24TTK5-LADUYPHAT-LAPTOPSTORE\src\ecommerce-asp\obj\Debug\net10.0\ref\ecommerce-asp.dll
