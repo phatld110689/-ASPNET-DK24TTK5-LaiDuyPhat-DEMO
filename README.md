@@ -28,6 +28,7 @@ Hệ thống hướng đến trải nghiệm thân thiện, dễ sử dụng và
   Quản lý sản phẩm
   Quản lý danh mục
   Quản lý đơn hàng
+  Quản lý người dùng
  **5. Hướng dẫn cài đặt và chạy chương trình****
  **5.1. Clone project git clone https://github.com/phatld110689/-ASPNET-DK24TTK5-LaiDuyPhat-DEMO.git**
  **5.2 Mở project**
@@ -40,6 +41,6 @@ Hệ thống hướng đến trải nghiệm thân thiện, dễ sử dụng và
 **5.5 Cấu trúc thư mục**
 
 ├── src/ # Source code chính ├── progress-report/ # Báo cáo tiến độ hàng tuần ├── thesis/ # Tài liệu đồ án │ ├── doc/ │ ├── pdf/ │ ├── html/ │ ├── abs/ │ └── refs/ ├── setup/ # Hướng dẫn cài đặt └── README.md
-Quản lý người dùng
+
 
 Thống kê doanh th
